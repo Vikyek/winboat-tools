@@ -1,0 +1,6 @@
+[submodule "winboat-disk-resizer"]
+	path = winboat-disk-resizer
+	url = https://github.com/Vikyek/winboat-disk-resizer
+[submodule "winboat-aur-pkg"]
+	path = winboat-aur-pkg
+	url = https://github.com/Vikyek/winboat-aur-pkg
